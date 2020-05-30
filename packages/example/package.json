@@ -25,9 +25,9 @@
     "@pgtyped/query": "^0.7.2",
     "@types/pg": "7.14.3",
     "pg": "8.2.1",
-    "typescript": "3.8.3"
+    "typescript": "3.9.3"
   },
   "devDependencies": {
-    "ts-node": "8.10.1"
+    "ts-node": "8.10.2"
   }
 }
